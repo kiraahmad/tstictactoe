@@ -13,8 +13,8 @@ npm run server
 
 
 ### Project Structure
-- This Project is based on React.js for the Front-end and Node.js for the Back-end  
-- Technologies used in this project are React, React Hooks, Axios, Node.Js and Express 
+- This Project is based on React.js for the Front-end and Typescript & Node.js for the Back-end  
+- Technologies used in this project are React, React Hooks, Axios, Typescript, Node.Js and Express 
 - Hooks is used for the Front-end to store state of the game while the game handler which will make the calculations of who is the winner is in the Back-end  
 - useEffect is used to send the state of the game to the Back-end using axios, once a player makes a move it will automatically send the current move to the Backend to do the calculations
 - The game will keep running until there is a winner or draw is set
